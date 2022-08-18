@@ -1,0 +1,14 @@
+E:\Code\WinForm\VS\VimassFVA\VimassFVA\bin\Release\VimassFVA.exe.config
+E:\Code\WinForm\VS\VimassFVA\VimassFVA\bin\Release\VimassFVA.exe
+E:\Code\WinForm\VS\VimassFVA\VimassFVA\bin\Release\VimassFVA.pdb
+E:\Code\WinForm\VS\VimassFVA\VimassFVA\bin\Release\FaceSDK.NET.dll
+E:\Code\WinForm\VS\VimassFVA\VimassFVA\obj\Release\VimassFVA.csproj.AssemblyReference.cache
+E:\Code\WinForm\VS\VimassFVA\VimassFVA\obj\Release\VimassFVA.csproj.SuggestedBindingRedirects.cache
+E:\Code\WinForm\VS\VimassFVA\VimassFVA\obj\Release\VimassFVA.Inputname.resources
+E:\Code\WinForm\VS\VimassFVA\VimassFVA\obj\Release\VimassFVA.Main.resources
+E:\Code\WinForm\VS\VimassFVA\VimassFVA\obj\Release\VimassFVA.Properties.Resources.resources
+E:\Code\WinForm\VS\VimassFVA\VimassFVA\obj\Release\VimassFVA.csproj.GenerateResource.cache
+E:\Code\WinForm\VS\VimassFVA\VimassFVA\obj\Release\VimassFVA.csproj.CoreCompileInputs.cache
+E:\Code\WinForm\VS\VimassFVA\VimassFVA\obj\Release\VimassFVA.csproj.CopyComplete
+E:\Code\WinForm\VS\VimassFVA\VimassFVA\obj\Release\VimassFVA.exe
+E:\Code\WinForm\VS\VimassFVA\VimassFVA\obj\Release\VimassFVA.pdb
